@@ -17,7 +17,7 @@ This is a Power BI mini project focused on analyzing retail sales and customer b
 
 - `Retail Sales & Customer Insight_Excel_Nuhad Kottampara.xlsx` – Excel data file
 - `Retail Sales & Customer Insight Dashboard_Nuhad Kottampara.pbix` – Power BI dashboard file
-- `screenshot1.png`, `screenshot2.png`, ... – Dashboard screenshots (in PNG format)
+- `SS_Dashboard1.png`, `SS_Dashboard2.png`, ... – Dashboard screenshots (in PNG format)
 
 ## Tools Used
 
